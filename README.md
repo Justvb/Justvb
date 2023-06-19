@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="http://justvb.ysepan.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&pause=300&color=FF5E95&center=true&width=435&lines=%E6%9C%80%E6%98%AF%E5%BF%83%E5%A4%B4%E5%86%B7%EF%BC%8C%E8%BF%98%E8%97%8F%E7%83%AD%EF%BC%8C%E5%A4%96%E5%B1%95%E6%B8%A9" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=30&pause=300&color=FF5E95&center=true&repeat=false&width=435&lines=%E6%9C%80%E6%98%AF%E5%BF%83%E5%A4%B4%E5%86%B7%EF%BC%8C%E8%BF%98%E8%97%8F%E7%83%AD%EF%BC%8C%E5%A4%96%E5%B1%95%E6%B8%A9" alt="Typing SVG" />
     </a>
   </div>
 
