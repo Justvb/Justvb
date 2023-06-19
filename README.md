@@ -3,13 +3,13 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="http://justvb.ysepan.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);最近过得还好吗？&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&pause=300&color=FF5E95&center=true&width=435&lines=%E6%9C%80%E6%98%AF%E5%BF%83%E5%A4%B4%E5%86%B7%EF%BC%8C%E8%BF%98%E8%97%8F%E7%83%AD%EF%BC%8C%E5%A4%96%E5%B1%95%E6%B8%A9" alt="Typing SVG" />
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
+  <!-- knock code pictures 敲代码的图片 
   <img src="https://cdn.jsdelivr.net/gh/Justvb/Justvb/assets/images/coding.gif" /><br>
-  
+  -->
   <!-- knock code pictures 图片 -->
   <img src="https://cdn.jsdelivr.net/gh/Justvb/Justvb/assets/images/bladerunner.gif" /><br>
 
