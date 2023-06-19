@@ -64,19 +64,9 @@ mindmap
       
 ```
 
-
-  
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
   
- 
-
-
-
-
-
-
-
 </div>
     
   
@@ -84,7 +74,7 @@ mindmap
 # 🏆GitHub Profile Trophy
 <img  src="https://github-profile-trophy.vercel.app/?username=Justvb&theme=radical&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
-# 🍂GitHub stats🍃
+# 🍂GitHub Stats🍃
     
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Justvb&theme=radical&hide_border=true" />&emsp;
