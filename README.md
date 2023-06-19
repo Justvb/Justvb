@@ -79,7 +79,7 @@ mindmap
   
 <!-- GitHub 奖杯🏆 -->
 # 🏆GitHub Profile Trophy
-<img  src="https://github-profile-trophy.vercel.app/?username=Justvb&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+<img  src="https://github-profile-trophy.vercel.app/?username=Justvb&theme=radical&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 # 🍂GitHub stats🍃
     
