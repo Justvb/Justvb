@@ -93,7 +93,7 @@ mindmap
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Justvb&theme=tokyo-night&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Justvb&theme=react-dark&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 
