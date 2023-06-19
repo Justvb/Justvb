@@ -14,7 +14,7 @@
   <div align="center">
     <a href="http://justvb.ysepan.com/"><img src="https://img.shields.io/badge/Website-导航-blue" /></a>&emsp;
     <a href="https://twitter.com/Regonefist/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    
+    <img src="https://komarev.com/ghpvc/?username=Justvb&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
    <!-- 
     <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/Regonefist/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
@@ -24,9 +24,8 @@
     <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     -->
-
     <!-- visitor statistics logo 访客数统计徽标 -->
-   <img src="https://komarev.com/ghpvc/?username=Justvb&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  
 
 
 #  🙋 Hello
