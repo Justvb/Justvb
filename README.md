@@ -88,7 +88,7 @@ mindmap
 
 <!-- GitHub 数据统计 -->
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Justvb&hide_border=true&show_icons=true&theme=radical" />
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justvb&hide_border=true&layout=compact&show_icons=true&theme=radical" /><br><br>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justvb&hide_border=true&show_icons=true&theme=radical" /><br><br>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
