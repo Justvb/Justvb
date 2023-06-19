@@ -9,6 +9,9 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/Justvb/Justvb/assets/images/coding.gif" /><br>
+  
+  <!-- knock code pictures 图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/Justvb/Justvb/assets/images/bladerunner.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
