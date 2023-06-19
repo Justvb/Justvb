@@ -15,7 +15,7 @@
     <a href="http://justvb.ysepan.com/"><img src="https://img.shields.io/badge/Website-导航-purple" /></a>&emsp;
     <a href="https://twitter.com/Regonefist/"><img src="https://img.shields.io/badge/Twitter-推特-red" /></a>&emsp;
      <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=Justvb&label=Views&color=pink&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=Justvb&label=Views&color=7f00ff&style=flat" alt="访问量统计" />
    
    <!-- 
     <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
